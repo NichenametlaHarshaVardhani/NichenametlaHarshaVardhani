@@ -1,9 +1,12 @@
 - 👋 Hi, I am N.HarshaVardhani
 - 👀 I’m interested in FullStack Development.
-- 🌱 I’m currently learning FrontEnd.
+- 🌱 I’m currently working on react.
+-     I'm currently learning:
+          Data Structures and Algorithms on LeetCode
+          Tools and technologies from React ecosystem
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her.
 - ⚡ Fun fact: ...
 
 <!---
